@@ -1,2 +1,2 @@
 # chat-gpt-line-bot
-ChatGPT APIをとLINEを連携
+ChatGPT APIとLINEを連携
